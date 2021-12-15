@@ -1,8 +1,6 @@
 # SimpleAssemblyFromScratch
 Creating an Assembly Language
 
-Code copyright by Margaret Black, Nicholas Almeder.
-
 <h3> emulator.c </h3>
 
 there is code that will turn bits into methods able to be coded with.
