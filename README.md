@@ -1,7 +1,7 @@
 # SimpleAssemblyFromScratch
 Creating an Assembly Language
 
-Code copyright by assignment instructor, Margaret Black, and myself, Nicholas Almeder.
+Code copyright by Margaret Black, Nicholas Almeder.
 
 <h3> emulator.c </h3>
 
